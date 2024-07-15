@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499773165756",
+    "project_id": "rentalmanager-891b7",
+    "storage_bucket": "rentalmanager-891b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499773165756:android:81e21feecb9b1e140580b9",
+        "android_client_info": {
+          "package_name": "com.example.rentalmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpjgJiLca1_r3sxcTW3I_fSi0lurHqg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
